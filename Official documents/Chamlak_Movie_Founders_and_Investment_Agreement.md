@@ -6,7 +6,9 @@
 
 **CHAMLAK MOVIE PROJECT**
 
-*between AEK, CHAMNAB (as Founders) and the Investor*
+*the film & streaming division of CHAMLAK — chamlak.com*
+
+*between Morng Chuk, Chamnab Mey (as Founders) and the Investor*
 
 > **IMPORTANT — TEMPLATE ONLY**
 >
@@ -20,9 +22,9 @@
 
 **BETWEEN:**
 
-> (1) **AEK [full legal name]**, of [address], holder of [ID / Passport No.] (“AEK”);
+> (1) **Morng Chuk [full legal name]**, of [address], holder of [ID / Passport No.] (“Morng Chuk”);
 >
-> (2) **CHAMNAB [full legal name]**, of [address], holder of [ID / Passport No.] (“CHAMNAB”; together with AEK, the “Founders” and each a “Founder”); and
+> (2) **Chamnab Mey [full legal name]**, of [address], holder of [ID / Passport No.] (“Chamnab Mey”; together with Morng Chuk, the “Founders” and each a “Founder”); and
 >
 > (3) **[INVESTOR full name / company name]**, of / with its registered office at [address] [company registration No. [\_\_\_]] (the “Investor”).
 >
@@ -30,7 +32,7 @@
 
 **BACKGROUND:**
 
-> (A) The Founders have conceived and are developing “Chamlak Movie”, a project to launch a mobile application that licenses films and short-form dramas from third-party suppliers, produces high-quality Khmer-language voice-over versions of that content, and distributes the content to viewers in Cambodia on a subscription and pay-per-view (credit) basis (the “Project”, and that business, the “Business”).
+> (A) The Founders have conceived and are developing “Chamlak Movie” (the “Project”), the film and streaming division of the CHAMLAK group (which operates online at chamlak.com). The Project licenses and produces films and short-form dramas, creates high-quality Khmer-language voice-over versions and original productions with cinematic surround sound, and distributes them to viewers in Cambodia through a mobile application on a subscription and pay-per-view (credit) basis (that business, the “Business”).
 >
 > (B) The Project is not yet incorporated as a company. The Parties intend that a private limited company will be formed under the laws of the Kingdom of Cambodia to own and operate the Business, and that each Party will become a shareholder of that company in proportion to its Ownership Interest under this Agreement.
 >
@@ -71,6 +73,8 @@
 > 2.1 The Parties will co-operate in good faith to develop and launch the Project and the Business, and to prepare the Project for operation by the Company once incorporated.
 >
 > 2.2 The name “Chamlak Movie”, the brand, and all Intellectual Property of the Project are, as between the Parties, assets of the Project held for the benefit of all Parties in proportion to their Ownership Interests, and will be transferred to and owned by the Company on incorporation. No Party may use the “Chamlak Movie” name or brand otherwise than for the Project.
+>
+> 2.3 The Project is the film and streaming division of the CHAMLAK group (which operates online at chamlak.com and also comprises CHAMLAK AI, CHAMLAK MEDIA and CHAMLAK MUSIC). This Agreement, and each Party’s Ownership Interest, relate solely to the Chamlak Movie Project and the Business, and give the Investor no interest in, or right over, the CHAMLAK parent brand or the other CHAMLAK divisions.
 
 **3. Ownership Interests**
 
@@ -90,9 +94,9 @@
 
 > 5.1 Each Founder will devote the time, skill and attention to the Project set out against their name in Schedule 3, and will act in good faith and in the best interests of the Project.
 >
-> 5.2 The Founders are responsible for the day-to-day development and management of the Project, subject to the Major Decisions in clause 8. AEK and CHAMNAB will consult with each other and reach decisions on ordinary-course matters [jointly / by majority].
+> 5.2 The Founders are responsible for the day-to-day development and management of the Project, subject to the Major Decisions in clause 8. Morng Chuk and Chamnab Mey will consult with each other and reach decisions on ordinary-course matters [jointly / by majority].
 >
-> *[ Drafting note: Record each Founder’s role, expected time commitment and any cash or non-cash contribution in Schedule 3. Clear, written roles reduce future disputes between AEK and CHAMNAB and reassure the Investor. ]*
+> *[ Drafting note: Record each Founder’s role, expected time commitment and any cash or non-cash contribution in Schedule 3. Clear, written roles reduce future disputes between Morng Chuk and Chamnab Mey and reassure the Investor. ]*
 
 **6. Founder Vesting and Leavers**
 
@@ -236,7 +240,7 @@
 
 **IN WITNESS WHEREOF the Parties have signed this Agreement on the date first written above.**
 
-**SIGNED by AEK [full legal name] (Founder)**
+**SIGNED by Morng Chuk [full legal name] (Founder)**
 
 Signature
 
@@ -244,7 +248,7 @@ Name:
 
 Date:
 
-**SIGNED by CHAMNAB [full legal name] (Founder)**
+**SIGNED by Chamnab Mey [full legal name] (Founder)**
 
 Signature
 
@@ -268,12 +272,12 @@ The Ownership Interests of the Parties in the Project (and the proportion of Sha
 
 | **Party**             | **Role** | **Ownership Interest** | **Contribution**        |
 |-----------------------|----------|------------------------|-------------------------|
-| AEK [full name]     | Founder  | [\_\_]%              | [time / skill / cash] |
-| CHAMNAB [full name] | Founder  | [\_\_]%              | [time / skill / cash] |
+| Morng Chuk [full name]     | Founder  | [\_\_]%              | [time / skill / cash] |
+| Chamnab Mey [full name] | Founder  | [\_\_]%              | [time / skill / cash] |
 | [Investor name]     | Investor | [\_\_]%              | USD [amount] (cash)   |
 | **Total**             |          | **100%**               |                         |
 
-> *[ Drafting note: Decide the Founders’ split between AEK and CHAMNAB (e.g. 50/50, or weighted by contribution) and the Investor’s percentage (their cash against an agreed value for the Project). The three figures must add up to 100%. ]*
+> *[ Drafting note: Decide the Founders’ split between Morng Chuk and Chamnab Mey (e.g. 50/50, or weighted by contribution) and the Investor’s percentage (their cash against an agreed value for the Project). The three figures must add up to 100%. ]*
 
 **Schedule 2 — The Investment**
 
@@ -287,6 +291,6 @@ The Ownership Interests of the Parties in the Project (and the proportion of Sha
 
 **Schedule 3 — Founder Roles and Contributions**
 
-> 1. **AEK:** Role [e.g. CEO / licensing & fundraising]. Time commitment [full-time]. Contribution [describe cash and non-cash contributions].
+> 1. **Morng Chuk:** Role: Chief Creative & Technology Officer (CCTO) — creative direction, audio & surround-sound engineering, film production, plugin development and core technology. Time commitment [full-time]. Contribution [describe cash and non-cash contributions].
 >
-> 2. **CHAMNAB:** Role [e.g. Head of Content & Voice-over / Product]. Time commitment [full-time]. Contribution [describe cash and non-cash contributions].
+> 2. **Chamnab Mey:** Role: Chief Executive & Strategy Officer (CEO) — corporate management, commercial strategy, AI R&D, marketing and growth. Time commitment [full-time]. Contribution [describe cash and non-cash contributions].

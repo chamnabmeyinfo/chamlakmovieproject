@@ -18,15 +18,15 @@
 
 **BETWEEN:**
 
-> (1) **THE FOUNDERS:** [Full name], of [address], holder of [ID/Passport No.]; and [Full name], of [address], holder of [ID/Passport No.] (together, the “Founders” and each a “Founder”);
+> (1) **THE FOUNDERS:** **Mr. MORNG CHUK**, of [address], holder of [ID/Passport No.]; and **Mr. CHAMNAB MEY**, of [address], holder of [ID/Passport No.] (together, the “Founders” and each a “Founder”);
 >
 > (2) **THE INVESTOR(S):** [Investor full name / company name], of / with its registered office at [address] [company registration No. [\_\_\_]] (the “Investor”; together with the Founders and any person who becomes a party by Deed of Adherence, the “Shareholders” and each a “Shareholder”); and
 >
-> (3) **THE COMPANY:** CHAMLAK MOVIE CO., LTD., a private limited company incorporated under the laws of the Kingdom of Cambodia with company registration No. [\_\_\_] and registered office at [address] (the “Company”).
+> (3) **THE COMPANY:** CHAMLAK MOVIE CO., LTD., a private limited company and the film & streaming division of the CHAMLAK group (chamlak.com), incorporated under the laws of the Kingdom of Cambodia with company registration No. [\_\_\_] and registered office at [address] (the “Company”).
 
 **BACKGROUND:**
 
-> (A) The Company owns and operates “Chamlak Movie”, a mobile application through which the Company licenses films and short-form dramas from third-party suppliers, produces high-quality Khmer-language voice-over versions of that content, and distributes the content to viewers in Cambodia on a subscription and pay-per-view (credit) basis (the “Business”).
+> (A) The Company owns and operates “Chamlak Movie”, the film and streaming division of the CHAMLAK group (chamlak.com), through which the Company licenses and produces films and short-form dramas, creates high-quality Khmer-language voice-over versions and original productions with cinematic surround sound, and distributes them to viewers in Cambodia through a mobile application on a subscription and pay-per-view (credit) basis (the “Business”).
 >
 > (B) As at the date of this Agreement the Founders own the entire issued share capital of the Company in the proportions set out in Schedule 1, Part 1.
 >
